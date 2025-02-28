@@ -126,6 +126,24 @@
         "shop":"Rm Fast foods",
         "ftype":"non-veg",
         "pic":"product_16.jpg",
+        "latest":"Yes"},
+
+        {"id":17,
+        "name":"Egg Rice",
+        "amt":"110",
+        "shop":"Raja Fast foods",
+        "ftype":"non-veg",
+        "pic":"product_17.jpg",
+        "latest":"Yes"},
+
+        {"id":18,
+        "name":"Tandori chicken",
+        "amt":"210",
+        "shop":"Raja Fast foods",
+        "ftype":"non-veg",
+        "pic":"product_18.jpg",
         "latest":"Yes"}
+
+
 
 ]

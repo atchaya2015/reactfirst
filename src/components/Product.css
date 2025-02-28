@@ -1,6 +1,6 @@
 .product{
-    width:150px;
-    height: 250px;
+    width:200px;
+    height: 300px;
     border: 1px solid lightgrey;
     position:relative;
     
@@ -29,21 +29,23 @@
 
 .details h3{
     margin-bottom:10px;
+    font-size: 20px;
     
 }
 
 .details p{
     color:darkolivegreen;
     font-weight:800;
+    font-size:18px;
 }
 
 .details button{
-    padding:5px 10px;
-    margin-top:7px;
+    padding:5px 15px;
+    margin-top:20px;
     background-color:teal;
     color:beige;
     border:none;
-    font-size:10px;
+    font-size:15px;
     border-radius: 3px;
 }
 
